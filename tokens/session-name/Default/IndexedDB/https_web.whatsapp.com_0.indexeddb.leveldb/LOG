@@ -1,0 +1,30 @@
+2023/03/20-13:33:01.034 57f4 Reusing MANIFEST C:\Users\jorgi\OneDrive\Área de Trabalho\whatAppBots\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/20-13:33:01.599 57f4 Recovering log #1568
+2023/03/20-13:33:01.634 57f4 Reusing old log C:\Users\jorgi\OneDrive\Área de Trabalho\whatAppBots\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001568.log 
+2023/03/20-13:40:46.177 57f4 Level-0 table #1582: started
+2023/03/20-13:40:46.231 57f4 Level-0 table #1582: 1082753 bytes OK
+2023/03/20-13:40:46.235 57f4 Delete type=0 #1568
+2023/03/20-13:42:43.627 18384 Compacting 1@1 + 10@2 files
+2023/03/20-13:42:43.739 18384 Generated table #1583@1: 51797 keys, 2227623 bytes
+2023/03/20-13:42:43.784 18384 Generated table #1584@1: 3521 keys, 2162608 bytes
+2023/03/20-13:42:43.817 18384 Generated table #1585@1: 2472 keys, 2162980 bytes
+2023/03/20-13:42:43.864 18384 Generated table #1586@1: 2809 keys, 2148285 bytes
+2023/03/20-13:42:43.950 18384 Generated table #1587@1: 20276 keys, 2218777 bytes
+2023/03/20-13:42:44.031 18384 Generated table #1588@1: 27435 keys, 2250291 bytes
+2023/03/20-13:42:44.113 18384 Generated table #1589@1: 11618 keys, 2198716 bytes
+2023/03/20-13:42:44.230 18384 Generated table #1590@1: 79916 keys, 2224104 bytes
+2023/03/20-13:42:44.368 18384 Generated table #1591@1: 101475 keys, 2253121 bytes
+2023/03/20-13:42:44.426 18384 Generated table #1592@1: 41760 keys, 939178 bytes
+2023/03/20-13:42:44.426 18384 Compacted 1@1 + 10@2 files => 20785683 bytes
+2023/03/20-13:42:44.427 18384 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/03/20-13:42:44.427 18384 Delete type=2 #1570
+2023/03/20-13:42:44.427 18384 Delete type=2 #1571
+2023/03/20-13:42:44.427 18384 Delete type=2 #1572
+2023/03/20-13:42:44.428 18384 Delete type=2 #1573
+2023/03/20-13:42:44.428 18384 Delete type=2 #1574
+2023/03/20-13:42:44.428 18384 Delete type=2 #1575
+2023/03/20-13:42:44.428 18384 Delete type=2 #1576
+2023/03/20-13:42:44.429 18384 Delete type=2 #1577
+2023/03/20-13:42:44.429 18384 Delete type=2 #1578
+2023/03/20-13:42:44.429 18384 Delete type=2 #1579
+2023/03/20-13:42:44.429 18384 Delete type=2 #1582
