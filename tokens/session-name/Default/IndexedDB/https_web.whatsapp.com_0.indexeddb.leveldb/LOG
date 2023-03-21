@@ -1,30 +1,24 @@
-2023/03/20-13:33:01.034 57f4 Reusing MANIFEST C:\Users\jorgi\OneDrive\Área de Trabalho\whatAppBots\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/20-13:33:01.599 57f4 Recovering log #1568
-2023/03/20-13:33:01.634 57f4 Reusing old log C:\Users\jorgi\OneDrive\Área de Trabalho\whatAppBots\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001568.log 
-2023/03/20-13:40:46.177 57f4 Level-0 table #1582: started
-2023/03/20-13:40:46.231 57f4 Level-0 table #1582: 1082753 bytes OK
-2023/03/20-13:40:46.235 57f4 Delete type=0 #1568
-2023/03/20-13:42:43.627 18384 Compacting 1@1 + 10@2 files
-2023/03/20-13:42:43.739 18384 Generated table #1583@1: 51797 keys, 2227623 bytes
-2023/03/20-13:42:43.784 18384 Generated table #1584@1: 3521 keys, 2162608 bytes
-2023/03/20-13:42:43.817 18384 Generated table #1585@1: 2472 keys, 2162980 bytes
-2023/03/20-13:42:43.864 18384 Generated table #1586@1: 2809 keys, 2148285 bytes
-2023/03/20-13:42:43.950 18384 Generated table #1587@1: 20276 keys, 2218777 bytes
-2023/03/20-13:42:44.031 18384 Generated table #1588@1: 27435 keys, 2250291 bytes
-2023/03/20-13:42:44.113 18384 Generated table #1589@1: 11618 keys, 2198716 bytes
-2023/03/20-13:42:44.230 18384 Generated table #1590@1: 79916 keys, 2224104 bytes
-2023/03/20-13:42:44.368 18384 Generated table #1591@1: 101475 keys, 2253121 bytes
-2023/03/20-13:42:44.426 18384 Generated table #1592@1: 41760 keys, 939178 bytes
-2023/03/20-13:42:44.426 18384 Compacted 1@1 + 10@2 files => 20785683 bytes
-2023/03/20-13:42:44.427 18384 compacted to: files[ 0 0 10 0 0 0 0 ]
-2023/03/20-13:42:44.427 18384 Delete type=2 #1570
-2023/03/20-13:42:44.427 18384 Delete type=2 #1571
-2023/03/20-13:42:44.427 18384 Delete type=2 #1572
-2023/03/20-13:42:44.428 18384 Delete type=2 #1573
-2023/03/20-13:42:44.428 18384 Delete type=2 #1574
-2023/03/20-13:42:44.428 18384 Delete type=2 #1575
-2023/03/20-13:42:44.428 18384 Delete type=2 #1576
-2023/03/20-13:42:44.429 18384 Delete type=2 #1577
-2023/03/20-13:42:44.429 18384 Delete type=2 #1578
-2023/03/20-13:42:44.429 18384 Delete type=2 #1579
-2023/03/20-13:42:44.429 18384 Delete type=2 #1582
+2023/03/21-16:52:28.877 cac0 Reusing MANIFEST C:\Users\jorgi\OneDrive\Área de Trabalho\whatAppBots\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/21-16:52:28.878 cac0 Recovering log #1672
+2023/03/21-16:52:28.932 cac0 Reusing old log C:\Users\jorgi\OneDrive\Área de Trabalho\whatAppBots\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001672.log 
+2023/03/21-16:52:45.907 169ac Level-0 table #1690: started
+2023/03/21-16:52:45.937 169ac Level-0 table #1690: 1183574 bytes OK
+2023/03/21-16:52:45.938 169ac Delete type=0 #1672
+2023/03/21-16:52:46.117 cac0 Compacting 1@0 + 0@1 files
+2023/03/21-16:52:46.167 cac0 Generated table #1691@0: 25675 keys, 629866 bytes
+2023/03/21-16:52:46.168 cac0 Compacted 1@0 + 0@1 files => 629866 bytes
+2023/03/21-16:52:46.169 cac0 compacted to: files[ 0 1 10 0 0 0 0 ]
+2023/03/21-16:52:46.216 cac0 Compacting 1@1 + 10@2 files
+2023/03/21-16:52:46.340 cac0 Generated table #1692@1: 54333 keys, 2230357 bytes
+2023/03/21-16:52:46.398 cac0 Generated table #1693@1: 12980 keys, 2175767 bytes
+2023/03/21-16:52:46.459 cac0 Generated table #1694@1: 2677 keys, 2167124 bytes
+2023/03/21-16:52:46.505 cac0 Generated table #1695@1: 2393 keys, 2143844 bytes
+2023/03/21-16:52:46.590 cac0 Generated table #1696@1: 13193 keys, 2177495 bytes
+2023/03/21-16:52:46.673 cac0 Generated table #1697@1: 26268 keys, 2276325 bytes
+2023/03/21-16:52:46.756 cac0 Generated table #1698@1: 21042 keys, 2231489 bytes
+2023/03/21-16:52:46.812 cac0 Generated table #1699@1: 37333 keys, 2168788 bytes
+2023/03/21-16:52:46.904 cac0 Generated table #1700@1: 101828 keys, 2252593 bytes
+2023/03/21-16:52:46.994 cac0 Generated table #1701@1: 97706 keys, 2191518 bytes
+2023/03/21-16:52:46.995 cac0 Compacted 1@1 + 10@2 files => 22015300 bytes
+2023/03/21-16:52:46.995 cac0 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/03/21-16:52:46.996 cac0 Delete type=2 #1690

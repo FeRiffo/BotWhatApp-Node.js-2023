@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dialogflow": "^1.2.0",
+    "uuid": "^9.0.0",
     "venom-bot": "^4.3.7"
   }
 }
